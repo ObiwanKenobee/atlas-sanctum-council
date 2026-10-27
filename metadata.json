@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Sanctum — Regenerative Decision Engine",
+  "description": "Place-based decision intelligence infrastructure transforming fragmented evidence, human capabilities, commons governance, and ecological observations into explainable, contestable, and auditable decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
